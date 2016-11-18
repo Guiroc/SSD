@@ -1,0 +1,18 @@
+﻿table{
+	border:solid 1px;
+	border-collapse:collapse;
+	margin:auto;
+}
+td{
+	border:solid 1px;
+}
+.td2{
+	text-align:right;
+}
+.td1{
+	text-align:center;
+}
+div{
+	text-align:center;
+	font-size:30px;
+}

@@ -1,0 +1,13 @@
+.bandeau{
+	width:1270px;
+	height:100px;
+	background:#333333;
+	color:#CCCCCC;
+	padding:5px;
+	margin-top:-23px;
+}
+.titre{
+	margin-left:150px;
+	font-size:75px;
+	font-family:"Comic Sans MS";
+}

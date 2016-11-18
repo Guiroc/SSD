@@ -1,0 +1,14 @@
+﻿$(document).ready(function(){
+$(".corp").load("v_acceuil.php");
+});
+$('#acceuil').click(function(){
+$(".corp").load("../vues/v_acceuil.php");
+});
+$('#ssd').click(function(){
+$(".corp").css({visibility:'hidden'});
+$(".corp").load("c_ssd.php");
+$(".corp").css({visibility:'visible'});
+});
+$('#quisommenous').click(function(){
+$(".corp").load("../vues/v_qui_somme_nous.php");
+});
